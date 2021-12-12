@@ -1,0 +1,32 @@
+/* this styling is for the chart canvas */
+
+canvas {
+    width: 100% !important;
+    height: 500px !important;
+    background-color: #3C3F58;
+    border-color: black;
+    border-style: solid;
+}
+
+
+/* this styling is for the article element that the chart and its dropdown options are in  */
+
+#graphArticle {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+
+/* this styling is for the dropdown menus of the page */
+
+.dropdownMenu {
+    background-color: #dadbf8;
+    color: rgb(24, 23, 23);
+    border-color: black;
+    border-style: solid;
+}
+
+#main {
+    margin-right: 0px;
+}

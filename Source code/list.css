@@ -1,0 +1,34 @@
+/* this styling is for the table list button */
+
+#loadBtn {
+    height: 150px;
+    width: 100%;
+    background-color: #3C3F58;
+    padding-top: 50px;
+    text-align: center;
+    color: #3BBA9C;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+
+
+/* this styling is for the table, table data and table heading in list and display */
+
+table,
+td,
+th {
+    border-color: black;
+    border-style: solid;
+    font-size: 18px;
+}
+
+
+/* this styling is for the table in list and display */
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+}

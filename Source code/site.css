@@ -1,0 +1,115 @@
+/* this styling is for the header */
+
+header {
+    background-color: #2E3047;
+    border-color: black;
+    border-style: solid;
+    width: 100%;
+}
+
+
+/* this styling is for the sidebar navigation buttons */
+
+.sidebarButtons {
+    height: 150px;
+    width: 100%;
+    background-color: #3C3F58;
+    padding-top: 55px;
+    text-align: center;
+    color: #3BBA9C;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+/* this styling is for the anchor tag */
+
+a {
+    cursor: pointer;
+}
+
+
+/* this styling is for the sidebar navigation buttons hover animations */
+
+.sidebarButtons:hover {
+    background-color: #444872;
+    text-decoration: none;
+    color: #3BBA9C;
+}
+
+
+/* this styling is for the article used for the individual sections in the main */
+
+article {
+    height: auto;
+    width: 100%;
+    background-color: #2E3047;
+    color: #3BBA9C;
+    border-color: black;
+    border-style: solid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+
+/*  this styling is for the account log in button at the top right of the page */
+
+#loginButton {
+    height: 75px;
+    width: 100%;
+    padding-top: 20px;
+    text-align: center;
+    background-color: #3C3F58;
+    font-size: 20px;
+    color: #3BBA9C;
+    border-color: black;
+    border-style: solid;
+    cursor: pointer;
+}
+
+main {
+    background-color: #25263a;
+}
+
+
+/*  this styling is for the account log in button's hover animation */
+
+#loginButton:hover {
+    background-color: #444872;
+    text-decoration: none;
+}
+
+
+/*  this styling is for the background */
+
+body {
+    margin-left: 30px;
+    background-color: #43455C;
+}
+
+
+/* this styling is for the page title */
+
+h1 {
+    color: #3BBA9C;
+}
+
+
+/* this styling is for the page footer */
+
+main {
+    width: 100.8%;
+}
+
+footer {
+    width: 100%;
+    height: auto;
+    background-color: #2E3047;
+    border-color: black;
+    border-style: solid;
+    color: #3BBA9C;
+}
